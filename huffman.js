@@ -1,4 +1,6 @@
+// begin to learn
 function freq(str){
+
      var freqs={};
      var len=str.length;
      for( var i=0;i<len;i++) {
